@@ -1,0 +1,26 @@
+PLINK v2.00a3.6LM 64-bit Intel (14 Aug 2022)
+Options in effect:
+  --export A
+  --export-allele META5_GRS_RSid_proxy.txt
+  --extract META5_GRS_RSid_proxy.txt
+  --out meta5_proxy_transpose
+  --pfile meta5_proxy
+  --threads 2
+
+Hostname: cn4309
+Working directory: /gpfs/gsfs9/users/iwakih2/resources/amppd/v3/prs
+Start time: Fri Nov 10 12:29:08 2023
+
+Random number seed: 1699637348
+515436 MiB RAM detected; reserving 257718 MiB for main workspace.
+Using up to 2 compute threads.
+10418 samples (0 females, 0 males, 10418 ambiguous; 10418 founders) loaded from
+meta5_proxy.psam.
+90 variants loaded from meta5_proxy.pvar.
+Note: No phenotype data present.
+--extract: 90 variants remaining.
+90 variants remaining after main filters.
+--export-allele: 90 variants updated.
+--export A: meta5_proxy_transpose.raw written.
+
+End time: Fri Nov 10 12:29:08 2023
