@@ -28,4 +28,4 @@ PRS variations:
 * PRSp88 -> Used proxy above without LRRK2 locus
 
 
-**Pleaes note that the PRS weights were derived from the European GWAS results. Therfore, the PRSs may be invalid for those with non-European ancestries.**
+**Pleaes note that the PRS weights were derived from the European GWAS results. Therefore, the PRSs may be not easily generalizable to non-European population.**
