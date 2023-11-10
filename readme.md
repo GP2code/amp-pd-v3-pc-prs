@@ -14,6 +14,7 @@ Ancestry assignment results:
 * AFR 111
 * OTHER 156
 
+![Population Plot](/ancestry/PopulationPlot_w_1kg.png)
 
 ## PRS calculation
 The polygenic risk scores (PRS) were calculated based on the PD GWAS summary statistics from Nalls et al. 2019 (PMID: 31701892). The weight file was downloaded from  https://github.com/neurogenetics/genetic-risk-score. The file contains the weights of 90 risk SNPs but two SNPs were not available in the AMP-PD genetics data. We generated various versions of the PRSs and in some versions, the missing SNPs-rs11578699 was substituted by rs11577197 (perfect LD) and rs3742785 was substituted by rs10134885 (R2=0.989). The PRSs were normalized (N[0, 1]) across the AMP-PD for the ease of use. 
